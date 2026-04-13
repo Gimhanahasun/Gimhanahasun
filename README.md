@@ -1,7 +1,12 @@
-
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=FFFFFF&vCenter=true&lines=Editing+in+Premiere+Pro+%2F+Resolve;Server+Dev+in+FiveM;Designing+Brand+Identity" alt="Technical Animated Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=My+name+is+Gimhana+hasun" alt="Typing Name" />
+  
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=𝙎𝙩𝙪𝙙𝙮𝙞𝙣𝙜;𝙒𝙚𝙗+𝘿𝙚𝙫;𝙎𝙘𝙧𝙞𝙥𝙩+𝘾𝙧𝙚𝙖𝙩𝙤𝙧;𝙆𝙚𝙚𝙥+𝙘𝙤𝙙𝙞𝙣𝙜,+𝙠𝙚𝙚𝙥+𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜" alt="Typing Skills" />
 </div>
+
+---
 <div align="center">
   <h3> Blending Creativity & Code 🎬💻🎮 </h3>
 </div>
