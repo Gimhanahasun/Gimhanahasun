@@ -85,9 +85,11 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 </p>
 
 <!-- Connect Section -->
+### 🤝 Let's Connect
 <div align="center">
-  <h2>🌐 Let's Connect</h2>
-  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  <a href="[YOUR_YOUTUBE_LINK]">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
