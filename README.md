@@ -196,12 +196,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   
   <br/><br/>
   
-  <!-- Support Section -->
-  <h3>☕ Support My Journey</h3>
-  <p>If you find my work valuable and want to support my learning journey:</p>
-  <a href="https://buymeacoffee.com/wasudasandaruvan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
+ 
   
   <br/><br/>
   
