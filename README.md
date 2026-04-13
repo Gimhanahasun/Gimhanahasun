@@ -3,7 +3,7 @@
 <h3 align="center">A young-developer 🤓 front end developer from Srilanka SL</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=/> </p>
 
-!-- About Me Section -->
+
 <div align="left">
 
 ## 💼 About Me
