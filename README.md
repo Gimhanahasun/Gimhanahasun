@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <strong>Software Engineering Student | Sri Lanka 🇱🇰</strong>
+  <strong>| Sri Lanka 🇱🇰</strong>
 </div>
 
 <br/>
@@ -27,12 +27,12 @@
 ## 💼 About Me
 
 ```yaml
-name: Wasuda Sandaruvan
-role: Software Engineering Student
+name: Gimhana Hasun
+role: Student
 location: Sri Lanka 🇱🇰
-education: Software Engineering
-focus: Full-Stack Development & Problem Solving
-current_learning: Java, Web Development, System Design
+education: -----
+focus: ----
+learning: Java, Web Development, System Design
 collaboration: Open Source Projects
 interests: [Gaming, Music, Travel, Technology]
 ```
