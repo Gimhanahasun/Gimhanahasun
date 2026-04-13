@@ -92,16 +92,11 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/wasuda-sandaruvan-94b1bb370" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://discordapp.com/users/1011993435458261122" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:your.wasudadark999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="[YOUR_YOUTUBE_LINK]">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
+
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
