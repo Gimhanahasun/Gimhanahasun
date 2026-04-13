@@ -43,8 +43,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://cdn.discordapp.com/attachments/1492297148434219200/1493270315525214379/THE_NOVA_YT.png?ex=69de5bda&is=69dd0a5a&hm=b6033c008e2e8e09d3f3349703983671f797b91d1cb3759ade78b0376a681073&" alt="python" width="40" height="40"/> </a>
     </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
+<p align="center"> <img src=https://media.discordapp.net/attachments/1492297148434219200/1493270315525214379/THE_NOVA_YT.png?ex=69de5bda&is=69dd0a5a&hm=b6033c008e2e8e09d3f3349703983671f797b91d1cb3759ade78b0376a681073&=&format=webp&quality=lossless&width=756&height=960 /> </p>
