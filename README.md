@@ -3,6 +3,21 @@
 <h3 align="center">A young-developer 🤓 front end developer from Srilanka SL</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=/> </p>
 
+!-- About Me Section -->
+<div align="left">
+
+## 💼 About Me
+
+```yaml
+name: Wasuda Sandaruvan
+role: Software Engineering Student
+location: Sri Lanka 🇱🇰
+education: Software Engineering
+focus: Full-Stack Development & Problem Solving
+current_learning: Java, Web Development, System Design
+collaboration: Open Source Projects
+interests: [Gaming, Music, Travel, Technology]
+```
 
 
 - 💬 Ask me about **react, vue and gsap**
