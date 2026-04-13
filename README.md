@@ -179,6 +179,13 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
+<!-- Footer -->
+<div align="center">
+  <h2>💼 Professional Philosophy</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  <p><em>"Code is poetry written in logic. Every line should tell a story, solve a problem, and inspire innovation."</em></p>
+  
+  <br/>
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
