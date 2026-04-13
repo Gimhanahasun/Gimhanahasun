@@ -1,22 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gimhana </h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<h3 align="center">A young-developer 🤓 front end developer from Srilanka SL</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=/> </p>
 
 <p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Reach me at **Gimhanahaun27@gmail.com**
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- 👨‍💻 All of my projects are available.
 
 - ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
+I have a bug to document technical stuffs that I do, which can be found at my [blog].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,12 +25,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
-<!-- BLOG-POST-LIST:START -->
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
