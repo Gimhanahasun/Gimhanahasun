@@ -1,5 +1,4 @@
 
-### 🎬 Blending Art & Code
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&color=FFFFFF&vCenter=true&lines=Editing+in+Premiere+Pro+%2F+Resolve;Server+Dev+in+FiveM;Designing+Brand+Identity" alt="Technical Animated Text" />
 </div>
