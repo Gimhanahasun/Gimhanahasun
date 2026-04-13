@@ -40,7 +40,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Logo:</h3>
 <p align="left">
 <p align="center"> <img src=https://media.discordapp.net/attachments/1492297148434219200/1493270315525214379/THE_NOVA_YT.png?ex=69de5bda&is=69dd0a5a&hm=b6033c008e2e8e09d3f3349703983671f797b91d1cb3759ade78b0376a681073&=&format=webp&quality=lossless&width=756&height=960 /> </p>
 
