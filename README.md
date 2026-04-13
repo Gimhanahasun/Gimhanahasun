@@ -92,8 +92,8 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@The_NOVA_2k26">
-    <img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/@The_NOVA_2k26)" />
+ <a href="[YOUR_YOUTUBE_LINK]">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
 
