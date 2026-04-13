@@ -88,7 +88,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <!-- Connect Section -->
 <div align="center">
   <h2>🌐 Let's Connect</h2>
-  <p>I'm always open to interesting conversations and collaboration opportunities!</p>
+  <p>This is a My Gaming Channel </p>
 </div>
 
 <div align="center">
