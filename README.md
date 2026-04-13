@@ -131,7 +131,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 </td>
 
 <td align="center">
-<img height="200" src="https://github-contributor-stats.vercel.app/api?username=Gimhanahasun&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&custom_title=Contributor%20Stats" />
+<img height="200" src="https://cdn.discordapp.com/attachments/1492297148434219200/1493270315525214379/THE_NOVA_YT.png?ex=69de5bda&is=69dd0a5a&hm=b6033c008e2e8e09d3f3349703983671f797b91d1cb3759ade78b0376a681073&" />
 </td>
 
 </tr>
