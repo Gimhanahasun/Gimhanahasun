@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Gimhana </h1>
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Gimhana!;Content+Creator;Video+Editor;FiveM+Scripting;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3> Blending Creativity & Code 🎬💻🎮 </h3>
+</div>
+
+---
 
 <h3 align="center">A young-developer 🤓 front end developer from Srilanka SL</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=/> </p>
