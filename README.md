@@ -215,7 +215,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <!-- 🌊 ANIMATED WAVE FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                                           END OF README                                              -->
