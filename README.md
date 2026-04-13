@@ -190,14 +190,6 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
 
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=WasuVa&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  
-  <br/><br/>
-  
- 
-  
   <br/><br/>
   
   <p>
