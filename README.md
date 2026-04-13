@@ -153,7 +153,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 <table>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WasuVa&theme=tokyonight" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gimhanahasun&theme=tokyonight" alt="Profile Details" />
 </td>
 <td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WasuVa&theme=tokyonight&utcOffset=5" alt="Productive Time" />
