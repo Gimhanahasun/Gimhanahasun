@@ -97,7 +97,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   <a href="https://discordapp.com/users/500323238790955008 target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:your.wasudadark999@gmail.com" target="_blank">
+  <a href="mailto:your.Gimhanahaun27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
