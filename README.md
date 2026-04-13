@@ -169,14 +169,14 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <div align="center">
   <h2>🏆 GitHub Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=WasuVa&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gimhanahasun&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasuVa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimhanahasun&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <!-- Footer -->
