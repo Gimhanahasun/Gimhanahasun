@@ -94,7 +94,7 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
   <a href="https://linkedin.com/in/wasuda-sandaruvan-94b1bb370" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discordapp.com/users/1011993435458261122" target="_blank">
+  <a href="https://discordapp.com/users/500323238790955008 target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:your.wasudadark999@gmail.com" target="_blank">
