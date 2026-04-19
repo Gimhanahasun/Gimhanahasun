@@ -30,7 +30,7 @@ interests: [Gaming, Music, Travel, Technology]
 
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **Gimhanahaun27@gmail.com**
+- 📫 Reach me at **Gimhanahasun27@gmail.com**
 
 - 👨‍💻 All of my projects are available.
 
